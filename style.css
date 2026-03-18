@@ -1,0 +1,121 @@
+body {
+  margin: 0;
+  background-color: white;
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.pagina {
+  width: 900px;
+  margin-left: 58px;
+  margin-top: 55px;
+}
+
+.bloco-logo img {
+  width: 400px;
+  height: auto;
+}
+
+.secao {
+  margin-top: 22px;
+}
+
+h1 {
+  font-size: 33px;
+  font-weight: bold;
+  margin: 0 0 18px 0;
+}
+
+h3 {
+  font-size: 22px;
+  font-weight: bold;
+  margin: 0 0 18px 0;
+}
+
+.img-evento {
+  width: 420px;
+  height: auto;
+  display: block;
+  margin-left: 40px;
+}
+
+.texto-evento {
+  font-size: 21px;
+  margin-top: 10px;
+  margin-left: 40px;
+}
+
+.img-biblioteca {
+  width: 90px;
+  height: auto;
+  display: block;
+  margin-top: 10px;
+  margin-left: 5px;
+}
+
+.titulo-biblioteca {
+  margin-top: 30px;
+  line-height: 1.2;
+}
+
+.publicado {
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 28px;
+}
+
+.quadro-video {
+  width: 620px;
+  height: 350px;
+  border: 1px solid black;
+  margin-top: 24px;
+  position: relative;
+}
+
+.titulo-video {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  margin-top: 25px;
+  margin-left: 70px;
+}
+
+.img-youtube {
+  width: 78px;
+  height: auto;
+  position: absolute;
+  top: 145px;
+  left: 272px;
+}
+
+.icones {
+  margin-top: 40px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.icone-topo {
+  width: 36px;
+  height: auto;
+}
+
+.barra {
+  font-size: 28px;
+  color: gray;
+  margin: 0 2px;
+}
+
+.icone-facebook {
+  width: 46px;
+  height: auto;
+}
+
+.rodape {
+  margin-top: 18px;
+  margin-bottom: 40px;
+}
+
+.rodape p {
+  font-size: 17px;
+  margin: 0;
+}
